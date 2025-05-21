@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!;)](https://git.io/typing-svg)
 
-Currently a 3A computer engineering student @ University of Waterloo.
+Currently a 4A computer engineering student @ University of Waterloo.
 
 <!--
 **houznogs/houznogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
